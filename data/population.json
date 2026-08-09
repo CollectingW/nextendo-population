@@ -1,4 +1,505 @@
 {
-  "games": {},
-  "updated_utc": null
+  "games": {
+    "0100152000022000": {
+      "hours": [
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 22.0,
+          "samples": 1
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        }
+      ]
+    },
+    "01003bc0000a0000": {
+      "hours": [
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 39.0,
+          "samples": 1
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        }
+      ]
+    },
+    "01003c700009c800": {
+      "hours": [
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 39.0,
+          "samples": 1
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        }
+      ]
+    },
+    "01006a800016e000": {
+      "hours": [
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 57.0,
+          "samples": 1
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        }
+      ]
+    },
+    "0100f8f0000a2000": {
+      "hours": [
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 39.0,
+          "samples": 1
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        },
+        {
+          "avg": 0.0,
+          "samples": 0
+        }
+      ]
+    }
+  },
+  "updated_utc": "2026-08-09T02:35:05Z"
 }
