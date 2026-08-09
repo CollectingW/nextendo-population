@@ -48,7 +48,7 @@
         },
         {
           "avg": 0.0,
-          "samples": 0
+          "samples": 1
         },
         {
           "avg": 0.0,
@@ -147,8 +147,8 @@
           "samples": 2
         },
         {
-          "avg": 0.0,
-          "samples": 0
+          "avg": 18.0,
+          "samples": 1
         },
         {
           "avg": 0.0,
@@ -247,8 +247,8 @@
           "samples": 2
         },
         {
-          "avg": 0.0,
-          "samples": 0
+          "avg": 18.0,
+          "samples": 1
         },
         {
           "avg": 0.0,
@@ -347,8 +347,8 @@
           "samples": 2
         },
         {
-          "avg": 0.0,
-          "samples": 0
+          "avg": 13.0,
+          "samples": 1
         },
         {
           "avg": 0.0,
@@ -447,8 +447,8 @@
           "samples": 2
         },
         {
-          "avg": 0.0,
-          "samples": 0
+          "avg": 2.0,
+          "samples": 1
         },
         {
           "avg": 0.0,
@@ -547,8 +547,8 @@
           "samples": 2
         },
         {
-          "avg": 0.0,
-          "samples": 0
+          "avg": 18.0,
+          "samples": 1
         },
         {
           "avg": 0.0,
@@ -601,5 +601,5 @@
       ]
     }
   },
-  "updated_utc": "2026-08-09T10:47:01Z"
+  "updated_utc": "2026-08-09T11:38:34Z"
 }
