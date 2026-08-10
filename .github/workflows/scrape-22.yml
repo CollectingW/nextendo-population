@@ -1,8 +1,8 @@
-name: Scrape population (22:00 UTC)
+name: Scrape population (22:07 UTC)
 
 on:
   schedule:
-    - cron: "0 22 * * *"
+    - cron: "7 22 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -27,6 +27,6 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add data/population.json
           git diff --cached --quiet && exit 0
-          git commit -m "Update population data (22:00 UTC)"
+          git commit -m "Update population data (22:07 UTC)"
           git pull --rebase origin main
           git push
