@@ -95,8 +95,8 @@
           "samples": 3
         },
         {
-          "avg": 32.0,
-          "samples": 1
+          "avg": 37.5,
+          "samples": 2
         }
       ]
     },
@@ -195,8 +195,8 @@
           "samples": 3
         },
         {
-          "avg": 44.0,
-          "samples": 1
+          "avg": 46.0,
+          "samples": 2
         }
       ]
     },
@@ -295,8 +295,8 @@
           "samples": 3
         },
         {
-          "avg": 44.0,
-          "samples": 1
+          "avg": 46.0,
+          "samples": 2
         }
       ]
     },
@@ -395,8 +395,8 @@
           "samples": 3
         },
         {
-          "avg": 80.0,
-          "samples": 1
+          "avg": 55.5,
+          "samples": 2
         }
       ]
     },
@@ -496,7 +496,7 @@
         },
         {
           "avg": 0.0,
-          "samples": 1
+          "samples": 2
         }
       ]
     },
@@ -595,11 +595,11 @@
           "samples": 3
         },
         {
-          "avg": 44.0,
-          "samples": 1
+          "avg": 46.0,
+          "samples": 2
         }
       ]
     }
   },
-  "updated_utc": "2026-08-10T22:50:49Z"
+  "updated_utc": "2026-08-10T23:46:26Z"
 }
