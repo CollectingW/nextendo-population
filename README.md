@@ -1,10 +1,16 @@
 # nextendo-population
 
-A GitHub Actions cron job that polls Nextendo's public `/api/online-counts`
-endpoint every 15 minutes and maintains a rolling, per-title, per-hour-of-day
-average player count in `data/population.json`. No auth, no server-side
-changes to Nextendo itself -- this just samples the same public endpoint the
-citron client already calls.
+24 GitHub Actions cron jobs -- one per UTC hour (`.github/workflows/scrape-00.yml`
+through `scrape-23.yml`) -- that each poll Nextendo's public
+`/api/online-counts` endpoint once a day at their assigned hour and maintain a
+rolling, per-title, per-hour-of-day average player count in
+`data/population.json`. Splitting the schedule this way (instead of one
+workflow on a `*/15`-style interval) avoids GitHub Actions silently delaying
+or dropping runs on high-frequency cron schedules -- each job only has to
+show up once a day, at a distinct minute-of-day from the other 23, so they
+never queue behind each other and every hourly bucket reliably gets its
+sample. No auth, no server-side changes to Nextendo itself -- this just
+samples the same public endpoint the citron client already calls.
 
 ## Data format
 
